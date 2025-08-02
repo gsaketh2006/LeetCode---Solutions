@@ -1,6 +1,7 @@
 // Problem: Palindrome Number
 // Link: https://leetcode.com/problems/palindrome-number/
 // Difficulty: Easy
+
 class Solution {
     public boolean isPalindrome(int x) {
         int digit,reversed=0,dup=x;
